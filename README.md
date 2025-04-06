@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nichole Chow. I'm interested in machine learning and artificial intelligence.
+I'm Nichole Chow. I'm interested in mathematical optimization.
 <br>
 <a href="https://komarev.com/ghpvc/?username=nicholechow">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=nicholechow&style=flat-square&color=blueviolet">
